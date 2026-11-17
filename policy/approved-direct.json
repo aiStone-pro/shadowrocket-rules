@@ -1,0 +1,1140 @@
+{
+  "description": "Reviewed direct domain scope. Never broaden this file from an upstream update.",
+  "approved_scope": [
+    [
+      "DOMAIN-SUFFIX",
+      "qq.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "qq.com.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "qqmail.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "qzone.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "qqurl.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "gtimg.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "gtimg.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "qlogo.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "qpic.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "servicewechat.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "tenpay.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "wechat.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "wechatlegal.net"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "wechatos.net"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "wechatpay.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "weixin.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "weixinbridge.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "weixinsxy.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "alipay.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "alipay.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "alipay.com.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "alipay.net"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "alipay-eco.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "alipay-traffic.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "alipaydns.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "alipayobjects.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "alipaydev.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "alipayplus.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "ifaa.org.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "taobao.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "tmall.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "tb.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "tbcdn.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "alicdn.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "taobaocdn.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "tmall.hk"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "juhuasuan.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "etao.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "jd.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "jd.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "jd.com.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "jd.hk"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "360buy.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "360buyimg.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "jdcache.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "jdcdn.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "jdcontent.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "jdpay.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "jdpaydns.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "jdjinrong.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "jdfinance.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "jdl.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "jdwl.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "jingdong.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "jingxi.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "pinduoduo.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "yangkeduo.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "pddpic.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "meituan.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "meituan.net"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "dianping.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "sankuai.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "maoyan.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "baidu.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "baidu.com.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "baiducontent.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "bdimg.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "bdstatic.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "bdstatic.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "baidupcs.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "baidupcs.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "baidupcs.net"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "baidupcs.com.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "tieba.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "tiebaimg.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "douyin.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "iesdouyin.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "iesdouyin.net"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "douyincdn.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "douyinpic.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "douyinstatic.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "douyinvod.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "idouyinvod.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "idouyinpic.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "idouyinstatic.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "douyinvideo.net"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "douyinec.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "amemv.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "snssdk.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "pstatp.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "kuaishou.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "kuaishou.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "kuaishouapp.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "kuaishouapp.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "kuaishouapp.net"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "kuaishouapps.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "kuaishoupay.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "ksapisrv.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "gifshow.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "kwaicdn.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "kwaicdnx.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "yximgs.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "xiaohongshu.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "xhscdn.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "xhscdn.net"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "bilibili.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "bilibili.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "b23.tv"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "acg.tv"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "acgvideo.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "biliapi.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "biliapi.net"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "biliimg.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "bilivideo.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "bilivideo.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "bilivideo.net"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "hdslb.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "hdslb.net"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "hdslb.org"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "bilicdn1.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "bilicdn2.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "bilicdn3.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "bilicdn4.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "bilicdn5.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "bilibilipay.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "bilibilipay.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "uposdash-302-bilivideo.yfcdn.net"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "upos-hz-mirrorakam.akamaized.net"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "iqiyi.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "iqiyipic.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "iqiyiedge.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "iqiyiedge.net"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "qiyi.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "qiyi.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "qiyipic.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "71.am"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "71edge.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "71edge.net"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "pps.tv"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "ppsimg.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "ppsurl.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "youku.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "youku.com.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "ykimg.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "tudou.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "soku.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "kumiao.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "kumiao.tv"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "kuxiaomiao.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "music.163.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "music.126.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "music.126.net"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "music.163.com.163jiasu.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "api.iplay.163.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "hz.netease.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "mam.netease.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "weibo.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "weibo.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "weibocdn.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "sinaimg.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "sinajs.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "zhihu.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "zhimg.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "12306.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "95306.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "ctrip.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "ctrip.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "c-ctrip.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "tripcdn.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "boc.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "bankofchina.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "bocservices.com.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "icbc.com.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "95588.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "95588.com.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "icbc-ltd.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "icbcit.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "ccb.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "ccb.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "ccb.com.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "ccbcos.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "abchina.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "abchina.com.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "95599.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "bankcomm.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "95559.com.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "95559.sh.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "cmbchina.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "cmbchina.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "cmbimg.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "cmbimg.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "cmburl.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "cmbt.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "psbc.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "95580.net"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "unionpay.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "unionpayintl.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "95516.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "10086.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "chinamobile.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "cmpassport.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "139.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "10010.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "10010.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "10010.com.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "chinaunicom.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "chinaunicom.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "chinaunicom.com.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "wo.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "wo.com.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "189.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "chinatelecom.com.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "chinatelecom.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "id6.me"
+    ],
+    [
+      "DOMAIN",
+      "apd-pcdnwxlogin.teg.tencent-cloud.net"
+    ],
+    [
+      "DOMAIN",
+      "slife.xy-asia.com"
+    ],
+    [
+      "DOMAIN",
+      "lf3-static.bytednsdoc.com"
+    ],
+    [
+      "DOMAIN",
+      "v5-dy-o-abtest.zjcdn.com"
+    ],
+    [
+      "DOMAIN",
+      "netease.ugcvideoss.ourdvs.com"
+    ]
+  ],
+  "pinned_direct": [
+    [
+      "DOMAIN-SUFFIX",
+      "abchina.com"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "abchina.com.cn"
+    ],
+    [
+      "DOMAIN-SUFFIX",
+      "95599.cn"
+    ]
+  ],
+  "pinned_source": "https://www.abchina.com/cn/PersonalServices/SvcBulletin/202207/t20220721_2168645.htm",
+  "sources": [
+    {
+      "name": "WeChat",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/WeChat/WeChat.list",
+      "format": "rules",
+      "min_domains": 7
+    },
+    {
+      "name": "AliPay",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AliPay/AliPay.list",
+      "format": "rules",
+      "min_domains": 5
+    },
+    {
+      "name": "JingDong",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/JingDong/JingDong.list",
+      "format": "rules",
+      "min_domains": 62
+    },
+    {
+      "name": "Pinduoduo",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Pinduoduo/Pinduoduo.list",
+      "format": "rules",
+      "min_domains": 1
+    },
+    {
+      "name": "MeiTuan",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/MeiTuan/MeiTuan.list",
+      "format": "rules",
+      "min_domains": 1
+    },
+    {
+      "name": "Baidu",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Baidu/Baidu.list",
+      "format": "rules",
+      "min_domains": 62
+    },
+    {
+      "name": "DouYin",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/DouYin/DouYin.list",
+      "format": "rules",
+      "min_domains": 3
+    },
+    {
+      "name": "KuaiShou",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/KuaiShou/KuaiShou.list",
+      "format": "rules",
+      "min_domains": 169
+    },
+    {
+      "name": "XiaoHongShu",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/XiaoHongShu/XiaoHongShu.list",
+      "format": "rules",
+      "min_domains": 1
+    },
+    {
+      "name": "BiliBili",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/BiliBili/BiliBili.list",
+      "format": "rules",
+      "min_domains": 28
+    },
+    {
+      "name": "iQIYI",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/iQIYI/iQIYI.list",
+      "format": "rules",
+      "min_domains": 8
+    },
+    {
+      "name": "Youku",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Youku/Youku.list",
+      "format": "rules",
+      "min_domains": 8
+    },
+    {
+      "name": "NetEaseMusic",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/NetEaseMusic/NetEaseMusic.list",
+      "format": "rules",
+      "min_domains": 2
+    },
+    {
+      "name": "Weibo",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Weibo/Weibo.list",
+      "format": "rules",
+      "min_domains": 1
+    },
+    {
+      "name": "Zhihu",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Zhihu/Zhihu.list",
+      "format": "rules",
+      "min_domains": 1
+    },
+    {
+      "name": "12306",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/12306/12306.list",
+      "format": "rules",
+      "min_domains": 3
+    },
+    {
+      "name": "XieCheng",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/XieCheng/XieCheng.list",
+      "format": "rules",
+      "min_domains": 7
+    },
+    {
+      "name": "BOC",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/BOC/BOC.list",
+      "format": "rules",
+      "min_domains": 5
+    },
+    {
+      "name": "BOCOM",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/BOCOM/BOCOM.list",
+      "format": "rules",
+      "min_domains": 1
+    },
+    {
+      "name": "CCB",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/CCB/CCB.list",
+      "format": "rules",
+      "min_domains": 4
+    },
+    {
+      "name": "ICBC",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ICBC/ICBC.list",
+      "format": "rules",
+      "min_domains": 14
+    },
+    {
+      "name": "CMB",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/CMB/CMB.list",
+      "format": "rules",
+      "min_domains": 9
+    },
+    {
+      "name": "PSBC",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/PSBC/PSBC.list",
+      "format": "rules",
+      "min_domains": 1
+    },
+    {
+      "name": "ChinaMobile",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaMobile/ChinaMobile.list",
+      "format": "rules",
+      "min_domains": 9
+    },
+    {
+      "name": "ChinaUnicom",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaUnicom/ChinaUnicom.list",
+      "format": "rules",
+      "min_domains": 8
+    },
+    {
+      "name": "ChinaTelecom",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTelecom/ChinaTelecom.list",
+      "format": "rules",
+      "min_domains": 20
+    },
+    {
+      "name": "TencentDomains",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Tencent/Tencent_Domain.list",
+      "format": "domain-set",
+      "min_domains": 624
+    },
+    {
+      "name": "AlibabaDomains",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Alibaba/Alibaba_Domain.list",
+      "format": "domain-set",
+      "min_domains": 315
+    },
+    {
+      "name": "ByteDance",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ByteDance/ByteDance.list",
+      "format": "rules",
+      "min_domains": 92
+    },
+    {
+      "name": "Sina",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Sina/Sina.list",
+      "format": "rules",
+      "min_domains": 26
+    },
+    {
+      "name": "NetEase",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/NetEase/NetEase.list",
+      "format": "rules",
+      "min_domains": 29
+    },
+    {
+      "name": "UnionPay",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/UnionPay/UnionPay.list",
+      "format": "rules",
+      "min_domains": 4
+    }
+  ],
+  "required_direct_hosts": [
+    "www.qq.com",
+    "weixin.qq.com",
+    "y.qq.com",
+    "www.alipay.com",
+    "www.taobao.com",
+    "www.tmall.com",
+    "www.jd.com",
+    "www.pinduoduo.com",
+    "www.meituan.com",
+    "www.dianping.com",
+    "www.baidu.com",
+    "www.douyin.com",
+    "www.kuaishou.com",
+    "www.xiaohongshu.com",
+    "www.bilibili.com",
+    "www.iqiyi.com",
+    "www.youku.com",
+    "music.163.com",
+    "www.weibo.com",
+    "www.zhihu.com",
+    "www.12306.cn",
+    "www.ctrip.com",
+    "www.boc.cn",
+    "www.icbc.com.cn",
+    "www.ccb.com",
+    "www.abchina.com.cn",
+    "www.bankcomm.com",
+    "www.cmbchina.com",
+    "www.psbc.com",
+    "www.unionpay.com",
+    "www.10086.cn",
+    "www.10010.com",
+    "www.189.cn"
+  ],
+  "required_proxy_hosts": [
+    "small-business.example.cn",
+    "unlisted.example.com",
+    "www.google.com",
+    "chatgpt.com",
+    "claude.ai",
+    "www.netflix.com",
+    "www.apple.com",
+    "tenant.oss-cn-shanghai.aliyuncs.com",
+    "tenant.cos.ap-shanghai.myqcloud.com",
+    "tenant.bcebos.com",
+    "tenant.jdcloud.com",
+    "notbaidu.com",
+    "baidu.com.example.net"
+  ]
+}

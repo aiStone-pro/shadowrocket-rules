@@ -1,0 +1,272 @@
+{
+  "updated_at_utc": "2026-11-17T03:07:18+00:00",
+  "approved_scope_count": 219,
+  "direct_rules": 219,
+  "ad_rules": 101832,
+  "outside_scope_rules_ignored": 5882,
+  "direct_sha256": "847fe5f3f593f3f019c770e5c5c4e12d3d404c6ade46a39623680b269eeaed08",
+  "ads_sha256": "58251eb1f62db0355c56f45e49b4c0998d649e96e216db36f7139a79ef54673c",
+  "ad_source": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt",
+  "ad_source_sha256": "5ba7c09db31c4c0a41b3a5718669f728d712767d962b8bf4a54f78df914f857b",
+  "sources": [
+    {
+      "name": "WeChat",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/WeChat/WeChat.list",
+      "domains": 30,
+      "ignored_types": {
+        "USER-AGENT": 2,
+        "IP-ASN": 1
+      },
+      "sha256": "c48cebb11ccc41a56a22560b83c64bf0efdf9c598128da3771f36fe591a0924e"
+    },
+    {
+      "name": "AliPay",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/AliPay/AliPay.list",
+      "domains": 20,
+      "ignored_types": {
+        "invalid-domain": 1
+      },
+      "sha256": "23d7ca5404f4795d485b4ea700f45e1d94f2dbf0f2871eeca5298cfce81ff5be"
+    },
+    {
+      "name": "JingDong",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/JingDong/JingDong.list",
+      "domains": 249,
+      "ignored_types": {},
+      "sha256": "0b7a01784c5dfdb1a18d9051f4872c4078c6d5deb6a24f71bfe2bc06d96bb02a"
+    },
+    {
+      "name": "Pinduoduo",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Pinduoduo/Pinduoduo.list",
+      "domains": 3,
+      "ignored_types": {},
+      "sha256": "fcddc414628d2a336b6ef3394eae6d17d6588ad0043ce60486b2c31be57291d0"
+    },
+    {
+      "name": "MeiTuan",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/MeiTuan/MeiTuan.list",
+      "domains": 7,
+      "ignored_types": {},
+      "sha256": "5c621dd07aa573761eb712c220631047a3c284297dc8d1830dfa62dab7b2d7ca"
+    },
+    {
+      "name": "Baidu",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Baidu/Baidu.list",
+      "domains": 251,
+      "ignored_types": {},
+      "sha256": "ac49361bba37ccd12f46dff78885ef07218d9dc9deb254d71d1c0431a7eb921a"
+    },
+    {
+      "name": "DouYin",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/DouYin/DouYin.list",
+      "domains": 13,
+      "ignored_types": {},
+      "sha256": "020e742fe4a7084268af6aa52c4153bf5bfd54c4d7a17466f42cd3461609e32a"
+    },
+    {
+      "name": "KuaiShou",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/KuaiShou/KuaiShou.list",
+      "domains": 678,
+      "ignored_types": {},
+      "sha256": "ba3eeeb698c90b6fb8164cf1f49d8735ab9a1803503d2628b45342d40fb2e7a4"
+    },
+    {
+      "name": "XiaoHongShu",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/XiaoHongShu/XiaoHongShu.list",
+      "domains": 4,
+      "ignored_types": {},
+      "sha256": "9fb20e80dc0962cfdf410ffbd72d6bf2a6a0ac0d930951880f98164ff229e8ff"
+    },
+    {
+      "name": "BiliBili",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/BiliBili/BiliBili.list",
+      "domains": 115,
+      "ignored_types": {
+        "USER-AGENT": 4,
+        "IP-CIDR": 8
+      },
+      "sha256": "9b22a7bdf97792346bf480771841b6cd1097ec7ad034b34528c14f3798107854"
+    },
+    {
+      "name": "iQIYI",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/iQIYI/iQIYI.list",
+      "domains": 34,
+      "ignored_types": {
+        "DOMAIN-KEYWORD": 1,
+        "USER-AGENT": 6,
+        "IP-CIDR": 21
+      },
+      "sha256": "9c1f49df5c05fa7cc16e17b08c4e731259a9f0ebec6dcb49964a31106acada69"
+    },
+    {
+      "name": "Youku",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Youku/Youku.list",
+      "domains": 34,
+      "ignored_types": {
+        "USER-AGENT": 2,
+        "IP-CIDR": 1
+      },
+      "sha256": "3f51726b97098a60150076e296e8b9f66aa4c1f9207e2bdb4d49618486f0d601"
+    },
+    {
+      "name": "NetEaseMusic",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/NetEaseMusic/NetEaseMusic.list",
+      "domains": 10,
+      "ignored_types": {
+        "USER-AGENT": 2,
+        "IP-CIDR": 18
+      },
+      "sha256": "da8638a8414224a63dd29d7b45446956ed98c67f88d3b530c80b6c978191fc09"
+    },
+    {
+      "name": "Weibo",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Weibo/Weibo.list",
+      "domains": 3,
+      "ignored_types": {
+        "DOMAIN-KEYWORD": 1
+      },
+      "sha256": "54f8a08d7f89498f4f5ec29737c0c82feff1c69faadbd0d4722e1cbd72156f75"
+    },
+    {
+      "name": "Zhihu",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Zhihu/Zhihu.list",
+      "domains": 2,
+      "ignored_types": {
+        "IP-CIDR": 5
+      },
+      "sha256": "450c53b3762b1aa2f63631f8d07c7237338c8c691aeb475ed07583cfea9d5e33"
+    },
+    {
+      "name": "12306",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/12306/12306.list",
+      "domains": 15,
+      "ignored_types": {},
+      "sha256": "ea721ee413f28c6b338c0777d52a9e0b66f5da0cbb9abb5a54a2cf82f5c21007"
+    },
+    {
+      "name": "XieCheng",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/XieCheng/XieCheng.list",
+      "domains": 29,
+      "ignored_types": {},
+      "sha256": "a1bb4db8f750704786a525279eb7f87f38db436047fc65a121239765ffe4d186"
+    },
+    {
+      "name": "BOC",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/BOC/BOC.list",
+      "domains": 22,
+      "ignored_types": {},
+      "sha256": "728311dda26e89a70d3157aa79c7fb3c9b186fb7a34131058ec53d7761c49c22"
+    },
+    {
+      "name": "BOCOM",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/BOCOM/BOCOM.list",
+      "domains": 6,
+      "ignored_types": {},
+      "sha256": "eca473c71e7ef3c215a1bc0a2780a583b69ad2ba3637edeac8dcac06c3113ff2"
+    },
+    {
+      "name": "CCB",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/CCB/CCB.list",
+      "domains": 18,
+      "ignored_types": {},
+      "sha256": "359b1c5f978e63fe77cc69a847d5abaa6e14fd77f27889ef9522d2f266008559"
+    },
+    {
+      "name": "ICBC",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ICBC/ICBC.list",
+      "domains": 57,
+      "ignored_types": {
+        "invalid-domain": 1
+      },
+      "sha256": "24021bd1f25cf7457211197ba9ee8d60e4607d2a72d7fda6686c6616d89234c8"
+    },
+    {
+      "name": "CMB",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/CMB/CMB.list",
+      "domains": 38,
+      "ignored_types": {},
+      "sha256": "f74e32d571eb603904e33e5cd965c820063c60ab9b1bc9439df588aeac39fea6"
+    },
+    {
+      "name": "PSBC",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/PSBC/PSBC.list",
+      "domains": 3,
+      "ignored_types": {},
+      "sha256": "c7ccf44827c56b48bd57b07c081b1765d6719473f5c5fba1b577126e8758955e"
+    },
+    {
+      "name": "ChinaMobile",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaMobile/ChinaMobile.list",
+      "domains": 37,
+      "ignored_types": {
+        "IP-CIDR": 1
+      },
+      "sha256": "8aa8078a08299feee81b6927c4f0ac82b91df9c1ed96012dc5c1e78fa324c8fb"
+    },
+    {
+      "name": "ChinaUnicom",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaUnicom/ChinaUnicom.list",
+      "domains": 33,
+      "ignored_types": {
+        "IP-CIDR": 1
+      },
+      "sha256": "ece90d6c9bbd29377e65a7aa1301e47c77b62f2fe9ba0955c938faf2976768dd"
+    },
+    {
+      "name": "ChinaTelecom",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ChinaTelecom/ChinaTelecom.list",
+      "domains": 83,
+      "ignored_types": {},
+      "sha256": "b804b6a6b87a3b0ab250445b205a735a394acd6e0d9c6c4c77fd21ebac854027"
+    },
+    {
+      "name": "TencentDomains",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Tencent/Tencent_Domain.list",
+      "domains": 2498,
+      "ignored_types": {},
+      "sha256": "aba29865528349ac940b4c9d3b832837cf20fad963c87e2b9bbee6b7817c2a0d"
+    },
+    {
+      "name": "AlibabaDomains",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Alibaba/Alibaba_Domain.list",
+      "domains": 1263,
+      "ignored_types": {},
+      "sha256": "756e22a1b72ea54d7baec95187127c11df59b4af95d242661d7957ebb2024a5a"
+    },
+    {
+      "name": "ByteDance",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/ByteDance/ByteDance.list",
+      "domains": 370,
+      "ignored_types": {
+        "USER-AGENT": 1,
+        "IP-CIDR": 1
+      },
+      "sha256": "063f28dd27c03ee361440b2e406de4dcac5554c8711f3430ffbcc5712ba96e3c"
+    },
+    {
+      "name": "Sina",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/Sina/Sina.list",
+      "domains": 107,
+      "ignored_types": {
+        "DOMAIN-KEYWORD": 1
+      },
+      "sha256": "223182b8b06af7838174f94839e1e799b39a9e283b66b0e1a71108539d7c2829"
+    },
+    {
+      "name": "NetEase",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/NetEase/NetEase.list",
+      "domains": 118,
+      "ignored_types": {
+        "IP-CIDR": 28
+      },
+      "sha256": "4e4829591f7cb055bfe21c3c4ee2898c0849dc23f154eca7f5292da906611a9a"
+    },
+    {
+      "name": "UnionPay",
+      "url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Shadowrocket/UnionPay/UnionPay.list",
+      "domains": 16,
+      "ignored_types": {},
+      "sha256": "cf603ac5ee90f5869a4a119cec8b90eab865c6388858be4d97d196bff9a38187"
+    }
+  ]
+}
