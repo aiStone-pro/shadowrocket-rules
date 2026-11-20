@@ -1,13 +1,13 @@
 {
-  "updated_at_utc": "2026-11-19T01:13:55+00:00",
+  "updated_at_utc": "2026-11-20T01:16:46+00:00",
   "approved_scope_count": 219,
   "direct_rules": 219,
-  "ad_rules": 101832,
+  "ad_rules": 102741,
   "outside_scope_rules_ignored": 5882,
   "direct_sha256": "847fe5f3f593f3f019c770e5c5c4e12d3d404c6ade46a39623680b269eeaed08",
-  "ads_sha256": "58251eb1f62db0355c56f45e49b4c0998d649e96e216db36f7139a79ef54673c",
+  "ads_sha256": "713a59cd519e94242b3570d96db8392f9619cab452b93ce7f122684141e934e3",
   "ad_source": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge.txt",
-  "ad_source_sha256": "5ba7c09db31c4c0a41b3a5718669f728d712767d962b8bf4a54f78df914f857b",
+  "ad_source_sha256": "e955dc1f918bbeb6aea82a6ee0017bcfb585ce416fdb296eb8d428de7b1d13d6",
   "sources": [
     {
       "name": "WeChat",
